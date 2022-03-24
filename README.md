@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **raghavthakur/raghavthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### print("Hello World! 👋")
+
+#### Reach Out
+(https://www.linkedin.com/in/raghavthakur/ "LinkedIn") | [E-mail](mailto:raghav.thakur.rt.20@gmail.com)
