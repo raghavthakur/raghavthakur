@@ -19,4 +19,4 @@ This might sound a little cliché but I think I was born an engineer at heart. G
 I'm a software engineer at FAANG with a history of building full-stack web apps. I enjoy being involved with mentorship, helping aspiring software engineers, investing in tech stocks, and oppertunities for growth. I'm highly motivated with a passion  for learning, as they say with great passion comes great learning responsibility. Maybe not 😉 but I find this to be true. I have a curiosity of how things work and a desire to build things, perhaps even the possibility of going into space one day.
 
 ## Reach Out
-[LinkedIn](https://www.linkedin.com/in/raghavthakur/) | [E-mail](mailto:raghav.thakur.rt.20@gmail.com)
+[Website](https://www.raghavthakur.dev) | [LinkedIn](https://www.linkedin.com/in/raghavthakur/) | [E-mail](mailto:raghav.thakur.rt.20@gmail.com)
