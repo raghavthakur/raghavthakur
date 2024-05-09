@@ -22,3 +22,5 @@ Please reach out to me if you want to learn more about my experiences or want to
 
 ## Reach Out
 [Website](https://www.raghavthakur.dev) | [LinkedIn](https://www.linkedin.com/in/raghavthakur/) | [E-mail](mailto:raghav.thakur.rt.20@gmail.com)
+
+![Codewars](https://github.r2v.ch/codewars?user=raghavthakur&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
