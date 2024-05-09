@@ -21,7 +21,7 @@ I'm a backend software engineer at FAANG with a history of building large-scale 
 Please reach out to me if you want to learn more about my experiences or want to have a chat.
 
 ## Reach Out
-[Website](https://www.raghavthakur.dev) | [LinkedIn](https://www.linkedin.com/in/raghavthakur/) | [E-mail](mailto:raghav.thakur.rt.20@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.raghavthakur.dev) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavthakur/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghav.thakur.rt.20@gmail.com)
 
 ![Codewars](https://github.r2v.ch/codewars?user=raghavthakur&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
 
