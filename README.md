@@ -25,4 +25,4 @@ Please reach out to me if you want to learn more about my experiences or want to
 
 ![Codewars](https://github.r2v.ch/codewars?user=raghavthakur&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/raghav_thakur?theme=wtf&font=Source%20Code%20Pro&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/xxraghavxx?theme=wtf&font=Source%20Code%20Pro&ext=activity)
