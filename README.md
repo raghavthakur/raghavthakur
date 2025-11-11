@@ -20,7 +20,3 @@ Please reach out to me if you want to learn more about my experiences or want to
 
 ## Reach Out
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.raghavthakur.dev) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavthakur/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavthakur.dev@gmail.com)
-
-![Codewars](https://github.r2v.ch/codewars?user=raghavthakur&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/xxraghavxx?theme=wtf&font=Source%20Code%20Pro&ext=activity)
