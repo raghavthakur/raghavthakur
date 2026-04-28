@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # print("Hello World! 👋")
-I'm Raghav, a backend software engineer with a history of building large-scale distributed systems at FAANG. I enjoy being involved with mentorship, hackathons, investing in tech stocks, and opportunities for growth. I'm highly motivated with a passion for learning, as they say with great passion comes great learning responsibility. Maybe not 😉 but I find this to be true. I have a deep curiosity of how things work and a desire to build tech, businesses, and knowledge.
+I'm Raghav, a backend software engineer with a history of building large-scale distributed systems at FAANG. I enjoy being involved with mentorship, hackathons, investing in tech stocks, and opportunities for growth. I'm highly motivated with a passion for learning, as they say with great passion comes great learning responsibility. Maybe not 😉 but I find this to be very true. I have a deep curiosity of how things work and a desire to build tech, businesses, and products.
 
-Please reach out to me if you want to learn more about my experiences or want to have a chat.
+Please reach out to me if you want to learn more about my experiences or just looking to have a casual chat about tech.
 
 ## Reach Out
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.raghavthakur.dev) 	[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavthakur/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raghavthakur.dev@gmail.com)
